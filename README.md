@@ -1,6 +1,8 @@
 ### Hi there, I'm Tejas 👋
 
 ## I'm a Developer and Data Science Enthusiast who loves exploring different stuff!
+<br>
+<br>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://d33wubrfki0l68.cloudfront.net/3098b6101cffe841bb065093da490c818d5a865b/f9f33/images/about_us_img.gif" />
 
@@ -12,6 +14,9 @@
 - ⚡ Fun fact: I love to program and play football
 - 📫 How to reach me: tejas.malik97@gmail.com
 
+<br>
+<br>
+
 ### Connect with me:
 
 [<img align="left" alt="Tejas | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -19,6 +24,8 @@
 [<img align="left" alt="Tejas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br>
+<br>
 
 ### Languages and Tools:
 
