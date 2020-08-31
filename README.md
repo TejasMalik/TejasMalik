@@ -2,7 +2,6 @@
 
 ## I'm a Developer and Data Science Enthusiast who loves exploring different stuff!
 <br>
-<br>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://d33wubrfki0l68.cloudfront.net/3098b6101cffe841bb065093da490c818d5a865b/f9f33/images/about_us_img.gif" />
 
@@ -25,7 +24,6 @@
 
 <br />
 <br>
-<br>
 
 ### Languages and Tools:
 
@@ -45,6 +43,8 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 
+<br>
+<br>
 <br>
 <br>
 
